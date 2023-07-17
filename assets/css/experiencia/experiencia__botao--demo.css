@@ -1,0 +1,13 @@
+.experiencia__botao--demo {
+	background-color: #0a3871;
+	border: 1px solid #0a3871;
+	border-radius: 4px;
+	color: white;
+	cursor: pointer;
+	padding: 8px;	
+}
+
+.experiencia__botao--demo:hover {
+	background-color: var(--cor-de-fundo);
+	color: #0a3871;
+}

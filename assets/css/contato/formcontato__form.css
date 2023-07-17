@@ -1,0 +1,7 @@
+.formcontato__form {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 2;
+	justify-content: space-between;
+	margin-top: 1.3rem;
+}

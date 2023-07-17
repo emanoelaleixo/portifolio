@@ -1,0 +1,8 @@
+.formacao__curso__lista {
+	
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	padding-left: 0px;
+	
+}

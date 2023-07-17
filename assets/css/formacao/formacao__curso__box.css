@@ -1,0 +1,8 @@
+.formacao__curso__box {
+	
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	width: 300px;
+}

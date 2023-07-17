@@ -1,0 +1,9 @@
+.formcontato__textarea {
+	
+	background: white;
+    border: none;
+    border-radius: 4px;
+    color: #0A3871;
+    height: 9rem;
+    resize: none;
+}

@@ -1,0 +1,19 @@
+.skills__box {
+
+	align-items: center;
+	background-color: white;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	width: 100px;
+
+}
+
+.skills__box ul {
+	
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	padding-left: 0px;
+}

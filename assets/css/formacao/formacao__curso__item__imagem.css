@@ -1,0 +1,15 @@
+.formacao__curso__item__imagem {
+
+	align-items: center;
+	background-color: white;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
+	width: 100%;
+}
+
+.img-cubos {
+	width: 120px;
+}
+

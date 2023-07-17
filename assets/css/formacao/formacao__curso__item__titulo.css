@@ -1,0 +1,9 @@
+.formacao__curso__item__titulo {
+	
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+
+.formacao__curso__item__titulo h4 {
+	margin: 10px 0;
+}

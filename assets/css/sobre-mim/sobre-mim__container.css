@@ -1,0 +1,5 @@
+.sobre-mim__container {
+	display: flex;
+	flex-direction: column;
+
+}
